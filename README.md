@@ -6,9 +6,9 @@ This project focuses on analyzing sales data using Microsoft Excel to extract me
 
 ## 📊 Dataset
 
-* Source: [Mention source or "Sample dataset"]
-* Total Records: XXXX
-* Features: Product, Sales, Revenue, Region, Date
+* Source: [Vrinda Store data]
+* Total Records: 31048
+* Features: order id, custid,data,age,month , Sales, Revenue, Region, ship 
 
 ## 🛠 Tools Used
 
@@ -32,7 +32,7 @@ This project focuses on analyzing sales data using Microsoft Excel to extract me
 
 ## 📷 Dashboard Preview
 
-(Add your screenshot here)
+[(Add your screenshot here)](https://github.com/KirtanPatel18/DATA-ANALYTICS-PROJECTS/blob/main/Screenshot%202026-03-30%20002536.png)
 
 ## ✅ Conclusion
 
